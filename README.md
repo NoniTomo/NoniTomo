@@ -121,14 +121,6 @@
   </td>
   <td align="center" width="110" height="90">
     <picture>
-      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="NestJS" width="40" height="40" />
-      </a>
-    </picture>
-    <br />NestJS
-  </td>
-  <td align="center" width="110" height="90">
-    <picture>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40" />
       </a>
