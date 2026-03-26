@@ -152,7 +152,7 @@
      <td align="center" width="110" height="90">
        <picture>
           <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-            <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" alt="Eslint" width="40" height="40" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" alt="Eslint" width="40" height="40" />
           </a>
         </picture>
       <br>Eslint
@@ -160,7 +160,7 @@
       <td align="center" width="110" height="90">
         <picture>
           <a href="https://prettier.io/" target="_blank" rel="noreferrer">
-            <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" alt="Prettier" width="40" height="40" />
+            <img src="https://prettier.io/icon.png" alt="Prettier" width="40" height="40" />
           </a>
         </picture>
        <br>Prettier
@@ -168,7 +168,7 @@
       <td align="center" width="110" height="90">
         <picture>
           <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
-            <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" alt="Postman" width="40" height="40" />
+            <img src="https://avatars.githubusercontent.com/u/10076935?s=200&v=4" alt="Postman" width="40" height="40" />
           </a>
         </picture>
         <br>Stylelint
@@ -177,4 +177,4 @@
 </table>
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoniTomo&)](https://github.com/NoniTomo)
+![Top Languages](./profile/top-langs.svg)
